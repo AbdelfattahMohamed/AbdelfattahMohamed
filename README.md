@@ -8,7 +8,7 @@
 
 Seeking to gain experience in Machine learning and building software applications as a team worker passionate and dedicated professional who wants to meet the challenges posed in the IT industry and dealing with new technology, gaining new skills and experience are my aim as well as developing my skills. 
 
-- 💼 I'm a AI intern at EgSA [@EgSA](https://egsa.gov.eg/) in Cairo, Egypt
+- 💼 I'm an AI intern at EgSA [@EgSA](https://egsa.gov.eg/) in Cairo, Egypt
 - 💼 Junior Data Scientist 
 - 💼 Major Department: Computer Science and AI
  
