@@ -8,7 +8,7 @@
 
 Seeking to gain experience in Machine learning and building software applications as a team worker passionate and dedicated professional who wants to meet the challenges posed in the IT industry and dealing with new technology, gaining new skills and experience are my aim as well as developing my skills. 
 
-- 💼 I'm an Junior ML Engineer at [@CIC](http://cic.ae/) Company, in Cairo, Egypt
+- 💼 I'm Junior ML Engineer at [@CIC](http://cic.ae/) Company, in Cairo, Egypt
 - 💼 Look forwarding to be Mid-level Senior Data Scientist
 - 💼 Major Department: Computer Science and AI
  
